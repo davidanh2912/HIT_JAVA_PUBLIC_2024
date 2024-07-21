@@ -1,0 +1,21 @@
+package trecon;
+
+public class test {
+	public static void main(String[] args) {
+		System.out.println("adudaduauddnuaduauda");
+		System.out.println("hhj"); 
+		System.out.println(1 == 1); //in ra kieu logic
+		int a;
+		int b;
+		
+		Integer aa = null;
+		Long bb;
+		
+		String s = "Hello";
+		String h = "Hello";
+		System.out.println(s == h);
+		
+		
+	}
+}
+
