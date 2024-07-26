@@ -21,7 +21,7 @@ public class test {
 //		int b1 = 2;
 		
 //		System.out.println( (double) a / b1 );
-		Scanner scanner = new Scanner(System.in) ;
+		//Scanner scanner = new Scanner(System.in) ;
 //		int a = scanner.nextInt();
 //		int b = scanner.nextInt();
 //		double c = scanner.nextDouble();
